@@ -60,4 +60,9 @@ This coursework involves multiple image processing tasks designed to demonstrate
 
 ---
 
+## License
+This project is licensed under the [Educational Community License v2.0](LICENSE).
+
+---
+
 
